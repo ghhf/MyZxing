@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyZXing</string>
+    <string name="btn_sure">确定</string>
+
+    <!-- 二维码扫描相关 -->
+    <string name="msg_default_status">请将二维码置于取景框内扫描。 </string>
+    <string name="msg_camera_framework_bug">很遗憾，Android 相机出现问题。你可能需要重启设备。</string>
+
+    <string name="btn_scan">扫一扫</string>
+    <string name="btn_scan_from_album">扫描相册中的二维码</string>
+    <string name="btn_generate_qr_code">生成二维码</string>
+    <string name="scan">扫一扫</string>
+
+</resources>

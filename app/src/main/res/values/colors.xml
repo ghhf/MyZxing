@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+
+
+    <!-- 二维码扫描相关 -->
+    <color name="possible_result_points">#00000000</color>
+
+    <color name="result_view">#F8B060</color>
+    <color name="status_text">#ff88ff</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+
+</resources>
